@@ -1,4 +1,4 @@
-// Simulates downloading content from a given URL using a Promise
+// Simulates downloading content from a given URL using a Promise.
 function download(url) {
     return new Promise(function exec(resolve, reject) {
         console.log("Starting to download data from ", url);
