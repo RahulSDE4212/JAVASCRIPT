@@ -1,7 +1,7 @@
 /*
-----------------------------------------
-🔍 FULL EXPLANATION: CLASSES AND OBJECTS
-----------------------------------------
+---------------------------------------------
+🔍  FULL EXPLANATION: CLASSES AND OBJECTS
+---------------------------------------------
 
 🧱 1. What is a Class?
 -> A class is like a **blueprint** or **design template** used to create objects.
@@ -104,3 +104,7 @@ class Product{
 
     }
 }
+
+
+// syntax to create an object.
+const p = new Product();
